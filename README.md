@@ -153,3 +153,7 @@ This project is an academic demonstration of Python programming concepts. It is 
 ## 14. Author
 
 PROG211 Student Project
+
+License
+This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software under the terms of the MIT License. See the LICENSE file for details.
+
