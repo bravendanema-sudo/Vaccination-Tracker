@@ -157,3 +157,13 @@ PROG211 Student Project
 License
 This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software under the terms of the MIT License. See the LICENSE file for details.
 
+Student Name: ALFRED NDANEMA
+
+Course Code: PROG211
+
+Programme: BIT1102
+
+Project Title: Vaccination Tracker System
+
+
+
